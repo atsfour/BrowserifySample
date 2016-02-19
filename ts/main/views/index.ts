@@ -1,3 +1,3 @@
 'use strict';
 
-import './main/MainCtrl';
+import './main/Main';

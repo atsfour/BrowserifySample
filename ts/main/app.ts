@@ -2,7 +2,7 @@
 
 'use strict';
 
-import angular = require('angular');
+import * as angular from 'angular';
 import {appName, externalModules} from './constants';
 
 angular.module(appName, externalModules);
